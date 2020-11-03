@@ -47,6 +47,21 @@
 
    
 
-## 2020-10-29
+## 2020-11-02
 
 1. Queue
+
+## 2020-11-03
+
+1. 요세푸스
+
+   https://www.acmicpc.net/problem/1158
+
+   ```
+   Queue 사용 : 스택은 먼저 넣은 것이 나중에 꺼내지는 구조(LIFO)
+   Queue<Integer> queue = new LinkedList<Integer>();
+   queue.offer() : push , queue.poll() : pop
+   ```
+
+2. 나머지 연산
+
