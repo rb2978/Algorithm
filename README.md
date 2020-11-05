@@ -77,4 +77,5 @@
 
    https://www.acmicpc.net/problem/1929
 
-3. git 다시 연동 설정...
+3. git 다시 연동 설정..
+
